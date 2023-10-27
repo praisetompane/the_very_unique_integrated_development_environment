@@ -1,5 +1,5 @@
-from linting.brackets_linter import BracketsLinter
-from text_editor.text_editor import TextEditor
+from app.linting.brackets_linter import BracketsLinter
+from app.text_editor.text_editor import TextEditor
 
 
 class IDE:
